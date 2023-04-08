@@ -1,0 +1,11 @@
+<div class="row">
+                <div class="col ms-5">
+                    <img src="assets/comuunity-cartoon.png" height="500">
+                </div>
+                <div class="col m-5 px-5">
+                    <br><br>
+                    <h1 class="fw-bold mb-5">Community-driven, unbiased reviews</h1>
+                    <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin nulla eu facilisis euismod. 
+                        Nullam facilisis sit amet velit id iaculis. Suspendisse eleifend orci vitae pharetra suscipit. </h4>
+                </div>
+            </div>
